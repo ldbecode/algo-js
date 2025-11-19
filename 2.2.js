@@ -1,4 +1,4 @@
-const answer = document.querySelector("#answer");
+const answer = document.querySelector("#answer1");
 
 let min = +prompt("Enter Min");
 let max = +prompt("Enter Max");
