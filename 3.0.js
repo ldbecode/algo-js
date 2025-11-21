@@ -1,4 +1,4 @@
-const names = [
+let names = [
   "thelichkinge",
   "ethan",
   "Hetaska",
@@ -18,3 +18,8 @@ const names = [
   "TyberCusa",
   "Johan"
 ];
+
+
+for(let elem of names){
+  console.log(elem);
+}
